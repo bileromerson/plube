@@ -4,18 +4,24 @@ The bast playlist downloader of the world
 
 o **pltube** foi criado com o objetivo de faser um backup offline de todas suas musicas junto com as playlists para voce nunca perder suas musicas favoritas e conseguir ouvir de qualquer lugar, no momento nos temos apenas a opcao pelo youtube mas estou pensando em faser versoes com acesso ao spotfy e outros.
 
-## Uprades por em quanto
+## Uprades por em quanto:
 
+<<<<<<< Updated upstream
 
 
 
 ✅️ downloads de CSVs
+=======
+=======
+>>>>>>> Stashed changes
 
 ✅️ criacao de playlists
 
 ✅️ sincronizacao de playlists
 
 ✅️ interfase com parametros alteraveis facilmente
+
+✅️ criacao de playlists
 
 ❌️ acrecimo de cookies de navegacao para melhor esperiencia
 
@@ -26,8 +32,11 @@ o **pltube** foi criado com o objetivo de faser um backup offline de todas suas 
 ❌️ personalizacao de metadados ( Tumbnail, descricao, artista)
 
 ❌️ conexoes com apps diretamente (YoutubeMusic, Spotify, SoundCloud, Bandcamp)
+<<<<<<< Updated upstream
 
 ✅️ criacao de playlists
+=======
+>>>>>>> Stashed changes
 
 ❌️ sincronizacao de playlists
 
@@ -42,6 +51,7 @@ estou fasendo a partir do esquema de CSV do site [https://sanishtech.com](https:
 se quiser me apoiar falando mais mrlhorias e bugs encontrados ficarei feliz.
 
 ## requerimentos:
+
 * spotipy
 * yt-dlp
 * python3
